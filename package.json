@@ -17,5 +17,8 @@
     "fs": false,
     "path": false,
     "os": false
+  },
+  "engines": {
+    "node": "16.9.1"
   }
 }
