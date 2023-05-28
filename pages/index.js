@@ -31,7 +31,7 @@ export async function getStaticProps() {
         return m;
       }),
     },
-    // revalidate: 10,
+    revalidate: 10,
   };
 }
 
