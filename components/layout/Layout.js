@@ -6,7 +6,7 @@ function Layout(props) {
   return (
     <div>
       <Head>
-        <title>Meetups app</title>
+        <title>Meetups app Next 11</title>
       </Head>
       <MainNavigation />
       <main className={classes.main}>{props.children}</main>
